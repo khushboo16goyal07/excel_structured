@@ -34,12 +34,12 @@ The dashboard provides:
 # 📸 Project Screenshots
 
 ## 📊 Main Dashboard
-![Dashboard](dashboard.jpeg)
+![Dashboard](Dashboard.jpeg)
 
 ---
 
 ## 🗂️ Category Guide
-![Category Guide](category_guide.jpeg)
+![Category Guide](Category_guide.jpeg)
 
 ---
 
@@ -49,7 +49,7 @@ The dashboard provides:
 ---
 
 ## 💳 Customer Transaction Analysis
-![Customer Transaction](customer_transaction.jpeg)
+![Customer Transaction](customer_transactions.jpeg)
 
 ---
 
